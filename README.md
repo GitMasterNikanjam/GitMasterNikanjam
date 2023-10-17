@@ -1,4 +1,4 @@
-![SMSC_LAN91C110_ethernet_chip](https://github.com/GitMasterNikanjam/GitMasterNikanjam/assets/19185155/3c91108f-920a-4d8e-a71c-14a3c4044aa0)
+![image](https://github.com/GitMasterNikanjam/GitMasterNikanjam/assets/19185155/eeb5f9af-0268-42d6-aadc-dadddcd1614e)
 
 ### Hi, I am Mohammad Nikanjam. 👋
 I'm most comfortable in that weird, funky world between hardware design and software development, where the most fun, and creative work happens (IMHO).
