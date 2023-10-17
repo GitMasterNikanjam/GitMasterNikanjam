@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I am Mohammad Nikanjam. 👋
+I'm most comfortable in that weird, funky world between hardware design and software development, where the most fun, and creative work happens (IMHO).
+I am an Embedded Engineer by profession, a nice way for me to pursue both hardware and software.
+
+📬 Find me around the web:
 
 <!--
 **GitMasterNikanjam/GitMasterNikanjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
