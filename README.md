@@ -1,6 +1,6 @@
 ![image](https://github.com/GitMasterNikanjam/GitMasterNikanjam/assets/19185155/eeb5f9af-0268-42d6-aadc-dadddcd1614e)
 
-### Hi, I am Mohammad Nikanjam. 👋
+### Hi, I'm Mohammad Nikanjam. 👋
 I'm most comfortable in that weird, funky world between hardware design and software development, where the most fun, and creative work happens (IMHO).
 I am an Embedded Engineer by profession, a nice way for me to pursue both hardware and software.
 
