@@ -1,4 +1,4 @@
-![image](https://github.com/GitMasterNikanjam/GitMasterNikanjam/assets/19185155/eeb5f9af-0268-42d6-aadc-dadddcd1614e)
+<img width="700px" src="https://github.com/GitMasterNikanjam/GitMasterNikanjam/assets/19185155/eeb5f9af-0268-42d6-aadc-dadddcd1614e">
 
 ### Hi, I'm Mohammad Nikanjam. 👋
 I'm most comfortable in that weird, funky world between hardware design and software development, where the most fun, and creative work happens (IMHO).
