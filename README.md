@@ -1,4 +1,4 @@
-<img width="700px" src="https://github.com/GitMasterNikanjam/GitMasterNikanjam/assets/19185155/5e779178-9a5f-4b53-a2dc-4fc422205f4c">
+<img width="400px" src="https://github.com/GitMasterNikanjam/GitMasterNikanjam/assets/19185155/5e779178-9a5f-4b53-a2dc-4fc422205f4c">
 
 ### Hi, I'm Mohammad Nikanjam. 👋
 I'm most comfortable in that weird, funky world between hardware design and software development, where the most fun, and creative work happens (IMHO).
