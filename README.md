@@ -26,7 +26,6 @@ I design systems that combine **real-time performance, electronics, and C++ prog
 
 ## 📫 Find Me Around the Web
 - [GitHub Profile](https://github.com/GitMasterNikanjam)  
-- (Add LinkedIn / Website / Blog links here if you want)
 
 ---
 
