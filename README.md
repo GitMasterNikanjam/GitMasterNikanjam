@@ -1,20 +1,33 @@
-### Hi, I'm Mohammad Nikanjam. 👋
-I'm most comfortable in that weird, funky world between hardware design and software development, where the most fun, and creative work happens (IMHO).
-I am an Embedded Engineer by profession, a nice way for me to pursue both hardware and software.
 
-📬 Find me around the web:
+# Hi, I'm Mohammad Nikanjam 👋
 
-<!--
-**GitMasterNikanjam/GitMasterNikanjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **Embedded Systems & Robotics Engineer**, passionate about building at the intersection of **hardware and software** —  
+that “weird, funky” world where creativity and engineering meet (IMHO).  
 
-Here are some ideas to get you started:
+I design systems that combine **real-time performance, electronics, and C++ programming** to solve challenging problems in robotics, aerospace, and embedded control.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Expertise
+- **Languages:** C, C++, Python, Bash
+- **Embedded Systems:** STM32 (ARM Cortex-M), real-time motor control (PWM, stepper, servo), RS-232, EtherCAT
+- **Operating Systems:** Linux (Ubuntu), some Windows
+- **Tools & Libraries:** SOEM, cpp-httplib, Eigen, Doxygen, Keil, Git
+- **Focus Areas:** Hardware-software integration, protocol implementation, robotics, aerospace systems
+
+---
+
+## 🌱 Currently Learning
+- Advanced C++ techniques for high-performance real-time systems  
+- Linux system configuration & optimization  
+- Documentation best practices with **Doxygen**
+
+---
+
+## 📫 Find Me Around the Web
+- [GitHub Profile](https://github.com/GitMasterNikanjam)  
+- (Add LinkedIn / Website / Blog links here if you want)
+
+---
+
+⚡ **Fun fact:** I enjoy solving problems at the edge of hardware and software, where timing, precision, and creativity all matter.
